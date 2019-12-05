@@ -5,5 +5,5 @@ black
 yellow
 purple
 navy blue
-pink
+pink.
 
