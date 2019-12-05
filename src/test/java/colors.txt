@@ -1,7 +1,5 @@
 blue
 red
-purple
 green
-orange
-wow
-ooooo
+black
+yellow
