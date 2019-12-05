@@ -9,6 +9,6 @@ pink
 white
 Orange
 1234568
-pink.
+pink..
 
 java is fun
