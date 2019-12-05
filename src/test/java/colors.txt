@@ -4,5 +4,4 @@ green
 black
 yellow
 purple
-pink.
-ma
+navy blue
