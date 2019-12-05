@@ -5,9 +5,7 @@ black
 yellow
 purple
 navy blue
-pink.
-
-navy blue
-orange
-
-java is fun
+pink
+white
+Orange
+1234568
