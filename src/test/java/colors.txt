@@ -5,4 +5,3 @@ black
 yellow
 purple
 pink.
-ma...
