@@ -7,7 +7,4 @@ purple
 navy blue
 pink.
 
-navy blue
-orange
-
 java is fun
